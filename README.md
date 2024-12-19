@@ -24,7 +24,7 @@ https://github.com/mattjamo
 
 1. **Clone the Repository** (if not already done):
    ```bash
-   git clone https://github.com/your-repo/OllamaToGGUF.git
+   git clone https://github.com/mattjamo/OllamaToGGUF.git
    cd OllamaToGGUF
    ```
 
